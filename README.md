@@ -1,6 +1,6 @@
 FirstApp
 
-- [X] 1. User sees custom text in a label - Hello from {name}!
+- [X] 1. User sees custom text in a label - Hello from Mubarek!
 - [X] 2. User see's custom background color.
 - [X] 3. User can tap a button to change the text color of the label.
 - [X] 4. User can tap a button to change the color of the background view.
